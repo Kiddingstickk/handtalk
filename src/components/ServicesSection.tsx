@@ -84,14 +84,14 @@ const ServicesSection = () => {
               </div>
 
               <div
-                className={`flex-1 ${
+                className={`flex-1 text-center ${
                   index % 2 === 1 ? "md:text-right md:items-end" : "md:text-left md:items-start"
                 } flex flex-col`}
               >
                 <h3 className="text-2xl font-bold text-red-700 mb-3">
                   {service.title}
                 </h3>
-                <p className="text-black leading-relaxed max-w-md">
+                <p className="text-black leading-relaxed max-w-md mx-auto md:mx-0">
                   {service.description}
                 </p>
               </div>
