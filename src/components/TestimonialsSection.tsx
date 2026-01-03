@@ -16,7 +16,7 @@ const testimonials = [
   {
     name: "Robert Williams",
     role: "Monthly Member",
-    content: "I've been to a lot of barbershops, but Blade & Co. is different. The atmosphere, the skill, the service - all top tier.",
+    content: "I've been to a lot of barbershops, but Handtalk is different. The atmosphere, the skill, the service - all top tier.",
     rating: 5,
   },
 ];

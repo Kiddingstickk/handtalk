@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12">
           {/* Brand */}
           <div>
-            <h3 className="text-2xl font-bold text-primary mb-6">BLADE & CO.</h3>
+            <h3 className="text-2xl font-bold text-primary mb-6">Handtalk Barbershop.</h3>
             <p className="text-tan leading-relaxed mb-6">
               A premium grooming experience for the modern man. Established 2010.
             </p>
@@ -80,9 +80,9 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="mailto:info@bladeandco.com" className="flex items-center gap-3 hover:text-tan transition-colors">
+                <a href="mailto:*" className="flex items-center gap-3 hover:text-tan transition-colors">
                   <Mail className="w-4 h-4 text-tan" />
-                  <span>info@bladeandco.com</span>
+                  <span>info@handtalkbarber.com</span>
                 </a>
               </li>
               <li className="flex items-start gap-3">
@@ -120,7 +120,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-leather-brown/30 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-primary/60 text-sm">
-            © 2024 Blade & Co. All rights reserved.
+            © 2024 Handtalk Barbershop.  All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-primary/60">
             <a href="#" className="hover:text-tan transition-colors">Privacy Policy</a>
