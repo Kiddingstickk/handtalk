@@ -107,7 +107,7 @@ const Navbar = () => {
                 className="flex items-center gap-2 text-red-600 py-2"
               >
                 <Phone className="w-4 h-4" />
-                <span className="font-semibold">(555) 123-4567</span>
+                <span className="font-semibold">+1 929-262-8758</span>
               </a>
               <Button
                 className="bg-red-600 text-white hover:bg-blue-950 w-full mt-2 font-bold"
