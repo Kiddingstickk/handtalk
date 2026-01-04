@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import reddd from "@/assets/handtalk.png";
+import reddd from "@/assets/ciecleeee-modified.png";
 import { motion } from "framer-motion";
 import { Scissors } from "lucide-react";
 
