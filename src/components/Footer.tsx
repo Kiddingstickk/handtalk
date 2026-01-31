@@ -7,13 +7,13 @@ const Footer = () => {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12">
           {/* Brand */}
           <div>
-            <h3 className="text-2xl font-bold text-primary mb-6">Handtalk Barbershop.</h3>
+            <h3 className="text-2xl font-bold text-primary mb-6">BarberShop @241 PeachTree</h3>
             <p className="text-tan leading-relaxed mb-6">
               A premium grooming experience for the modern man. Established 2010.
             </p>
             <div className="flex gap-4">
               <a
-                href="https://www.instagram.com/handtalkbarber?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+                href="https://www.instagram.com/barbershop241peachtree/"
                 className="w-10 h-10 bg-leather-brown flex items-center justify-center hover:bg-leather-brown-light transition-colors"
                 aria-label="Instagram"
               >
@@ -74,22 +74,22 @@ const Footer = () => {
             <h4 className="text-primary font-bold uppercase tracking-wider mb-6">Contact</h4>
             <ul className="space-y-4 text-primary/70">
               <li>
-                <a href="tel:+15551234567" className="flex items-center gap-3 hover:text-tan transition-colors">
+                <a href="tel:+13106941853" className="flex items-center gap-3 hover:text-tan transition-colors">
                   <Phone className="w-4 h-4 text-tan" />
-                  <span>+1 929-262-8758</span>
+                  <span>+13106941853</span>
                 </a>
               </li>
               <li>
                 <a href="mailto:*" className="flex items-center gap-3 hover:text-tan transition-colors">
                   <Mail className="w-4 h-4 text-tan" />
-                  <span>info@handtalkbarber.com</span>
+                  <span>info@barbershop.com</span>
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="w-4 h-4 text-tan mt-1" />
                 <span>
-                3204 Eastern Ave<br />
-                Baltimore, MD 21224<br /> United States
+                241 Peachtree St NE,<br />
+                Atlanta, GA 30303<br /> United States
                 </span>
               </li>
             </ul>
@@ -104,7 +104,7 @@ const Footer = () => {
             className="block w-full h-full"
           >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12352.287234565485!2d-76.59035541284179!3d39.286622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c8040b37856825%3A0xc1e78df1b24091b9!2sHand%20Talk%20Barber%20Shop!5e0!3m2!1sen!2sin!4v1767418182614!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3810.469393215116!2d-84.38951089918878!3d33.7606642570215!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5055c5a8d0ffb%3A0x3f1c9ec176f160ef!2sBarbershop%40241Peachtree!5e1!3m2!1sen!2sin!4v1769865882762!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -120,7 +120,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-leather-brown/30 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-primary/60 text-sm">
-            © 2024 Handtalk Barbershop.  All rights reserved.
+            © 2026 BarberShop @241 PeachTree.  All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-primary/60">
             <a href="#" className="hover:text-tan transition-colors">Privacy Policy</a>

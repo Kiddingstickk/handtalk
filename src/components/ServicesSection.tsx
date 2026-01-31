@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { Scissors, Sparkles, Flame, PenTool, Package } from "lucide-react";
-import servicesBg from "@/assets/handtalk.png";
+import servicesBg from "@/assets/guiii-modified1.png";
 
 gsap.registerPlugin(ScrollTrigger);
 
